@@ -28,7 +28,9 @@
 
 
 <!-- About Me -->
-<h2 align="left">🚀 About Me</h2>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 align="left">🚀 About Me <img align="right" src="https://komarev.com/ghpvc/?username=JINAY2910&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" /></h2>
+</div>
 
 <p align="left">
 🎓 2nd-year B.Tech IT student at Charusat University<br>
@@ -115,7 +117,12 @@ I love turning real-life problems into code-powered solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JINAY2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="Top Languages" />
 </div>
 
-> 📈 Still leveling up — consistency beats perfection, one commit at a time! 💪  
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<p align="center">📈 Still leveling up — consistency beats perfection, one commit at a time! 💪</p>
+   
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -125,11 +132,9 @@ I love turning real-life problems into code-powered solutions
   <a href="https://www.linkedin.com/in/jinay-shah-a7a842320/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <p>&nbsp;&nbsp;&nbsp;</p>
   <a href="mailto:jinay2910@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <p>&nbsp;&nbsp;&nbsp;</p>
   <a href="https://www.instagram.com/jinay2910/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
