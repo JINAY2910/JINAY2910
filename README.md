@@ -146,6 +146,7 @@ I love turning real-life problems into code-powered solutions
 </div>
 
 <!-- Thank You Line -->
+<br>
 <p align="center">Thanks for scrolling all the way down. You deserve a semicolon ;
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
