@@ -21,9 +21,6 @@
        height="auto" />
 </div>
 
-<!-- Welcome Section -->
-<p align="center">Welcome! Future Full-Stack Dev 🚀 building projects, solving problems, and learning one commit at a time.</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" />
 </p>
