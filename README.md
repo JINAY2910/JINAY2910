@@ -1,6 +1,3 @@
-<!-- Welcome Section -->
-<p align="center">Welcome! Future Full-Stack Dev 🚀 building projects, solving problems, and learning one commit at a time.</p>
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -11,6 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Jinay+Shah!;Future+Full-Stack+Dev;Professional+Night+Owl;Hopefully+a+Future+World+Traveller" alt="Typing SVG" />
   </a>
 </div>
+<!-- Welcome Section -->
+<p align="center">Welcome! Future Full-Stack Dev 🚀 building projects, solving problems, and learning one commit at a time.</p>
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
