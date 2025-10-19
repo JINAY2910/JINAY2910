@@ -76,7 +76,7 @@ I love turning real-life problems into code-powered solutions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
 </div>
 
-<h3 align="left">🛠️ Tools & Platforms</h3>
+<h3 align="left">🌐 Tools & Platforms</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo" />
   <img width="10" />
@@ -117,9 +117,9 @@ I love turning real-life problems into code-powered solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JINAY2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" />
+</p>
 
 <p align="center">📈 Still leveling up — consistency beats perfection, one commit at a time! 💪</p>
    
