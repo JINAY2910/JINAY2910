@@ -100,21 +100,21 @@ I love turning real-life problems into code-powered solutions
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JINAY2910&theme=tokyonight&hide_border=false&border_radius=10" width="90%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=JINAY2910&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="GitHub Streak Stats" />
 </div>
 
 <br>
 
 <!-- Overall Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINAY2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10" width="90%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JINAY2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JINAY2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" width="90%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JINAY2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="Top Languages" />
 </div>
 
 <p align="center">📈 Still leveling up — consistency beats perfection, one commit at a time! 💪</p>
