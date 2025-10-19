@@ -117,10 +117,7 @@ I love turning real-life problems into code-powered solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JINAY2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" />
-</p>
-
+<br>
 <p align="center">📈 Still leveling up — consistency beats perfection, one commit at a time! 💪</p>
    
 <div align="center">
