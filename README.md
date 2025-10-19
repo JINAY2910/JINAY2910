@@ -146,8 +146,8 @@ I love turning real-life problems into code-powered solutions
 </div>
 
 <!-- Thank You Line -->
-<p align="center">Thanks for scrolling all the way down. You deserve a semicolon ;</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" />
+<p align="center">Thanks for scrolling all the way down. You deserve a semicolon ;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
 
