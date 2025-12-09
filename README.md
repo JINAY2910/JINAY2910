@@ -4,7 +4,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Jinay+Shah!;Future+Full-Stack+Developer;Professional+Night+Owl;Hopefully+a+Future+World+Traveller" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Jinay+Shah!;Full-Stack+Web+Developer;Professional+Night+Owl;Hopefully+a+Future+World+Traveller" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -98,21 +98,21 @@ I love turning real-life problems into code-powered solutions
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JINAY2910&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=jinay2910&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=86400" width="65%" alt="GitHub Streak Stats" />
 </div>
 
 <br>
 
 <!-- Overall Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINAY2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jinay2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=86400" width="65%" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JINAY2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jinay2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=86400" width="65%" alt="Top Languages" />
 </div>
 
 <br>
