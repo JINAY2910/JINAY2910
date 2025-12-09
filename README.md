@@ -105,14 +105,14 @@ I love turning real-life problems into code-powered solutions
 
 <!-- Overall Stats -->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jinay2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=86400" width="65%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jinay2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jinay2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=86400" width="65%" alt="Top Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=jinay2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="Top Languages" />
 </div>
 
 <br>
