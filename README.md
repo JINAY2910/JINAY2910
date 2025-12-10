@@ -98,7 +98,7 @@ I love turning real-life problems into code-powered solutions
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jinay2910&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=86400" width="65%" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.vercel.app/?user=jinay2910&theme=tokyonight&hide_border=false&border_radius=10" width="65%" alt="GitHub Streak Stats" />
 </div>
 
 <br>
