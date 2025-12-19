@@ -32,7 +32,7 @@
 
 <p align="left">
 🎓 2nd-year B.Tech IT student at Charusat University<br>
-💻 Future Full-Stack Developer (befriending frontend)<br>
+💻 Full-Stack Developer (befriending frontend)<br>
 📚 Currently learning — DSA, Databases, Frontend<br>
 ⚡ Always up for tech events. Hackathons? Bring it on.<br><br>
 I love turning real-life problems into code-powered solutions
@@ -84,6 +84,8 @@ I love turning real-life problems into code-powered solutions
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
