@@ -123,6 +123,9 @@ I love turning real-life problems into code-powered solutions
 
 <!-- Social Links -->
 <div align="center">
+  <a href="https://jinay-shah.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/jinay-shah-a7a842320/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
