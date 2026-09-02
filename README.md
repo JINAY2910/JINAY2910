@@ -31,7 +31,7 @@
 </div>
 
 <p align="left">
-🎓 2nd-year B.Tech IT student at Charusat University<br>
+🎓 3rd-year B.Tech IT student at Charusat University<br>
 💻 Full-Stack Developer (befriending frontend)<br>
 📚 Currently learning — DSA, Databases, Frontend<br>
 ⚡ Always up for tech events. Hackathons? Bring it on.<br><br>
